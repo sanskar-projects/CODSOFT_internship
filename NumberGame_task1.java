@@ -1,6 +1,6 @@
 import java.util.Random;
 import java.util.Scanner;
-class NumberGame
+class NumberGame_task1
 {
     static int number;
     static int game()
