@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class StudentGradeCalculator
+class GradeCalculator_task2
 {
     static int N=4;
     static String[] subject=new String[]{"SUBJECT 1","SUBJECT 2","SUBJECT 3","SUBJECT 4"};
