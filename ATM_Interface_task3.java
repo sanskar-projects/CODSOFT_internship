@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class ATM_Interface
+class ATM_Interface_task3
 {
     static Scanner scan=new Scanner(System.in);
     static class ATM
