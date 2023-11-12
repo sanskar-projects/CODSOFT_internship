@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class CurrencyConverter
+class CurrencyConverter_task4
 {
     static class currency
     {
