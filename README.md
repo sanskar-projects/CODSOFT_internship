@@ -9,7 +9,7 @@
 
 4) Currency Converter that allows the interconversion of currencies considering Indian Rupee as base currency.
 Currencies supoorted: Indian Rupee (IND), United States Dollar (USD), Euro (EUR), Japanese Yen (JPY), Pound Sterling (GBP), Australian Dollar (AUD). The exchange rates of these currencies with respect to Indian Rupee were taken from Google Finance on 11th November 2023. To update or add exchange rates changes have to be made in the currency class.
-<img src="output/ATM_interface.png">
+<img src="output/CurrencyConverter.png">
 
 5) Student Mangement System: Allows the user to add, remove, search, store, load and display details of the students. It creates and works on a text file named "student.txt" for storing and loading data which is placed at the same path as that of the program file.
 <img src="output/StudentDBMS.png">
